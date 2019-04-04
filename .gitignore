@@ -38,4 +38,5 @@ learning.iml
 learning-api/target/
 .DS_Store
 .idea/
+learning-api/learning-api.iml
 
