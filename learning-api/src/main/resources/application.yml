@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: learning-app
+
+server:
+  port: 8085
